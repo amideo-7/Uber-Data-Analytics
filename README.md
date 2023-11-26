@@ -59,9 +59,13 @@ The data pipeline consists of three main stages:
 
 <div align="center>
 
-<img src="https://github.com/amideo-7/Uber-Data-Analytics/blob/03c26acf644d2e8790a64f67a38a17bcb0497b9c/mageDataPipelineArchitecture.png" />
-
 <img src="https://github.com/amideo-7/Uber-Data-Analytics/blob/03c26acf644d2e8790a64f67a38a17bcb0497b9c/mageDataPipelineDashboard.png" />
+
+</div>
+
+<div align="center>
+
+<img src="https://github.com/amideo-7/Uber-Data-Analytics/blob/03c26acf644d2e8790a64f67a38a17bcb0497b9c/mageDataPipelineArchitecture.png" />
 
 </div>
 
