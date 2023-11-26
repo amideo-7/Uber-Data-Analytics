@@ -21,7 +21,7 @@ def export_data_to_big_query(data, **kwargs) -> None:
     config_profile = 'default'
 
     for key, value in data.items():
-        table_id = 'uberdataanalytics-405417.uber_data_analytics.{}'.format(key)
+        table_id = 'YourProjectID.YourDatabase.{}'.format(key)
         BigQuery.with_config(ConfigFileLoader(config_path, config_profile)).export(
         DataFrame(value),
         table_id,
