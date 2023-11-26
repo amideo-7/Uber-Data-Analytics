@@ -60,4 +60,6 @@ The data pipeline consists of three main stages:
 
 The interactive dashboard, created using Google Looker Studio, serves as a user-friendly interface for exploring and visualizing the insights derived from the Uber data. The dashboard presents key metrics and trends in a visually appealing format, enabling users to quickly grasp the essential information. Users can interact with the dashboard to filter, drill down, and segment the data, gaining deeper insights into specific aspects of Uber usage in New York City.
 
-<img src="https://github.com/amideo-7/Uber-Data-Analytics/blob/03c26acf644d2e8790a64f67a38a17bcb0497b9c/mageDataPipelineDashboard.png" />
+<img src="https://github.com/amideo-7/Uber-Data-Analytics/blob/3e1363498f3d53aac188d09e0975784994717818/images/Dashboard-1.png" />
+
+<img src="https://github.com/amideo-7/Uber-Data-Analytics/blob/3e1363498f3d53aac188d09e0975784994717818/images/Dashboard-2.png" />
