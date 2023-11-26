@@ -51,7 +51,7 @@ The data pipeline consists of three main stages:
 * **Data Export:** This stage exports the transformed data to Google Cloud BigQuery, a data warehouse. The data is stored in structured tables, enabling efficient analysis and visualization.
 
 
-<img src="https://github.com/amideo-7/Uber-Data-Analytics/blob/03c26acf644d2e8790a64f67a38a17bcb0497b9c/mageDataPipelineDashboard.png" />
+<img src="https://github.com/amideo-7/Uber-Data-Analytics/blob/7c085b6c519148dfa8d57cf7cf86f815aaa993a2/mageDataPipelineArchitecture.png" />
 
 <img src="https://github.com/amideo-7/Uber-Data-Analytics/blob/03c26acf644d2e8790a64f67a38a17bcb0497b9c/mageDataPipelineDashboard.png" />
 
