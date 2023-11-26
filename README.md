@@ -15,11 +15,8 @@ The project successfully generated insights from the Uber data, providing valuab
 
 ## Architecture:
 
-<div align="center>
-
 <img src="https://github.com/amideo-7/Uber-Data-Analytics/blob/03c26acf644d2e8790a64f67a38a17bcb0497b9c/architecture.png" />
 
-</div>
 
 ## Dataset:
 
@@ -41,11 +38,7 @@ The data model contains 1 fact table and 7 dimension tables describing different
 * RateCode Dimension
 * Payment Type Dimension
 
-<div align="center>
-
 <img src="https://github.com/amideo-7/Uber-Data-Analytics/blob/03c26acf644d2e8790a64f67a38a17bcb0497b9c/dataModel.png" />
-
-</div>
 
 ## Data Pipeline:
 
@@ -57,15 +50,8 @@ The data pipeline consists of three main stages:
 
 * **Data Export:** This stage exports the transformed data to Google Cloud BigQuery, a data warehouse. The data is stored in structured tables, enabling efficient analysis and visualization.
 
-<div align="center>
 
 <img src="https://github.com/amideo-7/Uber-Data-Analytics/blob/03c26acf644d2e8790a64f67a38a17bcb0497b9c/mageDataPipelineDashboard.png" />
 
-</div>
-
-<div align="center>
-
-<img src="https://github.com/amideo-7/Uber-Data-Analytics/blob/03c26acf644d2e8790a64f67a38a17bcb0497b9c/mageDataPipelineArchitecture.png" />
-
-</div>
+<img src="https://github.com/amideo-7/Uber-Data-Analytics/blob/03c26acf644d2e8790a64f67a38a17bcb0497b9c/mageDataPipelineDashboard.png" />
 
